@@ -2,6 +2,7 @@ public class HelloWorld {
 	private int i;
 	private String name;
 	public HelloWorld() {
+		System.out.println("HAAAAAAAAAAAAAAAAAAAAAAAAALLLLLOOOOOOOOOOOOOOOOOO")
 		i = 0;
 	}
 	public int getI() {
