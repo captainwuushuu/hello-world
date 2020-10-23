@@ -2,7 +2,8 @@ public class HelloWorld {
 	private int i;
 	private String name;
 	public HelloWorld() {
-		System.out.println("HAAAAAAAAAAAAAAAAAAAAAAAAALLLLLOOOOOOOOOOOOOOOOOO")
+		// Hotfix
+		System.out.println("Hallo.");
 		i = 0;
 	}
 	public int getI() {
